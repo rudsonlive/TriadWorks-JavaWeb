@@ -1,2 +1,2 @@
-TriadWorks-JavaWeb
+TriadWorks JavaWeb
 ==================
